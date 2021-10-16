@@ -1,1 +1,1 @@
-console.log(fuc)
+console.log(fuc1)
